@@ -1,0 +1,10 @@
+
+package hello.world.caralho;
+
+public class HelloWorldCARALHO {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World !");
+    }
+    
+}
