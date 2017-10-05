@@ -6,6 +6,7 @@ public class HelloWorldCARALHO {
     public static void main(String[] args) {
         System.out.println("Hello World !");
         System.out.println("Hello World TESTE!");
+        System.out.println("Hello World TESTE2!");
     }
     
 }
